@@ -1,0 +1,37 @@
+body {
+    font-size: 16px;
+  }
+
+  h1 {
+      color: orange;
+      width: 65px;
+      height: auto;
+      font-family: sans-serif;
+
+  }
+  li {
+      background-color: aquamarine;
+      font-style: italic;
+      text-align: center;
+      text-decoration: underline;
+      font-size: 2em;
+  }
+  #tag {
+      background-color: black;
+  }
+  #l1 {
+      color: yellow;
+  }
+  #l2 {
+      color: red;
+  }
+  #l3 {
+      color: brown;
+  }
+  p {
+      color: white;
+      font-weight: 600;
+      font-size: 3em;
+
+
+  }
